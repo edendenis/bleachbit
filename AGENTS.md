@@ -176,7 +176,7 @@ O documento principal deve incluir `preamble.tex` para a configuração de pacot
 ### Seções
 * Iniciar cada capítulo com `\chapter{...}` antes de qualquer `\section`, exceto capa, folha de rosto, dedicatória, agradecimentos, epígrafo, resumo, apêndice ou anexo.
 
-* Não alterar a Seção `## 2. Configurar/Instalar/usar o `Git` [1]` do arquivo `README.ipynb`.
+* Não alterar a Seção `## 1. Configurar/Instalar/usar o `Git` [1]` do arquivo `README.ipynb`.
 
 # Codex Instructions
 
